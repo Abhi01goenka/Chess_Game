@@ -1,1 +1,2 @@
-# Chess_Game
+# Chess Game
+A simple Chess game using Python..
